@@ -8,6 +8,8 @@ import DentalProductsPage from './components/products/products';
 import ServicesPage from './components/services/services';
 import AboutUsPage from './components/about/about';
 import ContactPage from './components/contact/contact';
+import FAQPage from './components/faq/faq';
+import BlogPage from './components/blog/blog';
 
 const Layout = ({ children }) => {
   return (
@@ -45,6 +47,8 @@ function App() {
             <Route path="/services" element={<ServicesPage />} />
             <Route path="/about" element={<AboutUsPage />} />
             <Route path="/contact" element={<ContactPage />} />
+            <Route path="/faq" element={<FAQPage />} />
+            <Route path="/blog" element={<BlogPage />} />
           {/* <Route path="/admin" element={<AdminPage />} /> */}
         </Routes>
       </Layout>
