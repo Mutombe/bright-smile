@@ -30,7 +30,7 @@ const Footer = () => {
             <ul className="space-y-2 text-gray-400">
               <li className="flex items-center gap-2">
                 <MapPin className="h-5 w-5" />
-                123 Dental Street, City, State 12345
+                993 Woodlands, Waterfalls, Harare
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="h-5 w-5" />

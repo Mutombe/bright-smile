@@ -129,9 +129,9 @@ const ContactPage = () => {
                 <div>
                   <h3 className="font-semibold text-gray-800">Our Location</h3>
                   <p className="text-gray-600">
-                    1234 Dental Care Boulevard
+                    993 Woodlands
                     <br />
-                    Smile City, SC 12345
+                    Waterfalls, Harare
                   </p>
                 </div>
               </div>
@@ -139,8 +139,8 @@ const ContactPage = () => {
                 <Phone className="h-6 w-6 text-cyan-600 mr-4" />
                 <div>
                   <h3 className="font-semibold text-gray-800">Phone</h3>
-                  <p className="text-gray-600">(555) 123-4567</p>
-                  <p className="text-gray-600">Emergency: (555) 987-6543</p>
+                  <p className="text-gray-600">+263 78 594-8128</p>
+                  <p className="text-gray-600">+263 78 594-8128</p>
                 </div>
               </div>
               <div className="flex items-center">
